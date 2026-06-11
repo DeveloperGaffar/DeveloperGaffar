@@ -123,9 +123,6 @@ Currently working at **Alphinex Solutions**, contributing to **StaffVertex** —
   <a href="mailto:abdulgaffar.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.fiverr.com/abdulgaffardev" target="_blank">
-    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white"/>
-  </a>
   <a href="https://abdul-gaffar.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
